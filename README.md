@@ -18,7 +18,7 @@ Portuguese (fluent), English (Intermediary) and Espanõl (Beginner)
 - 👀 Programador Jr. (habilidade com Python), sempre em desenvolvimento.
 - Línguas de programação:
 Python(especialidade) e JavaScript(interessado)
-- Línguas (nível):
+- Idiomas (nível):
 Português (fluente), Inglês (Intermediário) e Espanõl (Principiante)
 
 #________________________
