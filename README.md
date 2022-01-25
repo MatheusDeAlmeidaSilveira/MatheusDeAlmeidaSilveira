@@ -17,7 +17,7 @@ Python(studing) and JavaScript(interested)
 - ☕ Idiomas (nível):
 Português (fluente), Inglês (Intermediário) e Espanõl (iniciante)
 - 👀 Programador Jr. (habilidade com Python), sempre em desenvolvimento.
-- ⌨ Línguas de programação:
+- ⌨ Linguagens de programação:
 Python(estudando) e JavaScript(interessado)
 
 <div style="display: inline_block"><br>
