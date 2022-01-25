@@ -15,7 +15,7 @@ Python(specialty) and JavaScript(interested)
 - 💞️ Estou à procura de serviços
 - 📫 Como chegar até mim @m4goth
 - ☕ Idiomas (nível):
-Português (fluente), Inglês (Intermediário) e Espanõl (Principiante)
+Português (fluente), Inglês (Intermediário) e Espanõl (iniciante)
 - 👀 Programador Jr. (habilidade com Python), sempre em desenvolvimento.
 - Línguas de programação:
 Python(especialidade) e JavaScript(interessado)
