@@ -6,18 +6,18 @@
 - ☕ Languages (level):
 Portuguese (fluent), English (Intermediary) and Espanõl (Beginner)
 - 👀 Programador Jr. (skill with Python), always in development.
-- Programming languages:
+- ⌨ Programming languages:
 Python(studing) and JavaScript(interested)
 
 #______Português BR______
 ** Olá, eu sou MatheusDeAlmeida 👋
-- 🌱 Estou atualmente a aprender Python, HTML e CSS
+- 🌱 Estou atualmente aprendendo Python, HTML e CSS
 - 💞️ Estou à procura de serviços
 - 📫 Como chegar até mim @m4goth
 - ☕ Idiomas (nível):
 Português (fluente), Inglês (Intermediário) e Espanõl (iniciante)
 - 👀 Programador Jr. (habilidade com Python), sempre em desenvolvimento.
-- Línguas de programação:
+- ⌨ Línguas de programação:
 Python(estudando) e JavaScript(interessado)
 
 <div style="display: inline_block"><br>
