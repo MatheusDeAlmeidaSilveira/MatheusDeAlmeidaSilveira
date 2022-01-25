@@ -7,7 +7,7 @@
 Portuguese (fluent), English (Intermediary) and Espanõl (Beginner)
 - 👀 Programador Jr. (skill with Python), always in development.
 - Programming languages:
-Python(specialty) and JavaScript(interested)
+Python(studing) and JavaScript(interested)
 
 #______Português BR______
 ** Olá, eu sou MatheusDeAlmeida 👋
@@ -18,7 +18,7 @@ Python(specialty) and JavaScript(interested)
 Português (fluente), Inglês (Intermediário) e Espanõl (iniciante)
 - 👀 Programador Jr. (habilidade com Python), sempre em desenvolvimento.
 - Línguas de programação:
-Python(especialidade) e JavaScript(interessado)
+Python(estudando) e JavaScript(interessado)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
