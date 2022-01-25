@@ -3,25 +3,22 @@
 - 🌱 I’m currently learning Python, HTML and CSS
 - 💞️ I am looking to provide services
 - 📫 How to reach me @m4goth
+- ☕ Languages (level):
+Portuguese (fluent), English (Intermediary) and Espanõl (Beginner)
 - 👀 Programador Jr. (skill with Python), always in development.
 - Programming languages:
 Python(specialty) and JavaScript(interested)
-- Languages (level):
-Portuguese (fluent), English (Intermediary) and Espanõl (Beginner)
-/;
 
 #______Português BR______
 ** Olá, eu sou MatheusDeAlmeida 👋
 - 🌱 Estou atualmente a aprender Python, HTML e CSS
 - 💞️ Estou à procura de serviços
 - 📫 Como chegar até mim @m4goth
+- ☕ Idiomas (nível):
+Português (fluente), Inglês (Intermediário) e Espanõl (Principiante)
 - 👀 Programador Jr. (habilidade com Python), sempre em desenvolvimento.
 - Línguas de programação:
 Python(especialidade) e JavaScript(interessado)
-- Idiomas (nível):
-Português (fluente), Inglês (Intermediário) e Espanõl (Principiante)
-
-#________________________
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,7 +26,9 @@ Português (fluente), Inglês (Intermediário) e Espanõl (Principiante)
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="pic" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/929515475283628094/935168831310151680/gif_programador.gif">
 </div>
-  
+
+#________________________
+ 
  ##
   
  <div> 
