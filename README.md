@@ -24,6 +24,7 @@ Python(estudando) e JavaScript(estudando)
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   <img align="right" alt="pic" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/929515475283628094/935168831310151680/gif_programador.gif">
 </div>
 
