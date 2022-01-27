@@ -1,24 +1,24 @@
 #______English______
 ** Hi, i'm MatheusDeAlmeida 👋
-- 🌱 I’m currently learning Python, HTML and CSS
+- 🌱 I’m currently learning Python,Javascript, HTML and CSS
 - 💞️ I am looking to provide services
 - 📫 How to reach me @m4goth
 - ☕ Languages (level):
 Portuguese (fluent), English (Intermediary) and Espanõl (Beginner)
-- 👀 Programador Jr. (skill with Python), always in development.
+- 👀 Programador Jr., always in development.
 - ⌨ Programming languages:
-Python(studing) and JavaScript(interested)
+Python(studing) and JavaScript(estudando)
 
 #______Português BR______
 ** Olá, eu sou MatheusDeAlmeida 👋
-- 🌱 Estou atualmente aprendendo Python, HTML e CSS
+- 🌱 Estou atualmente aprendendo Python, Javascript, HTML e CSS
 - 💞️ Estou à procura de serviços
 - 📫 Como chegar até mim @m4goth
 - ☕ Idiomas (nível):
 Português (fluente), Inglês (Intermediário) e Espanõl (iniciante)
-- 👀 Programador Jr. (habilidade com Python), sempre em desenvolvimento.
+- 👀 Programador Jr., sempre em desenvolvimento.
 - ⌨ Linguagens de programação:
-Python(estudando) e JavaScript(interessado)
+Python(estudando) e JavaScript(estudando)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
