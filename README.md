@@ -7,7 +7,7 @@
 Portuguese (fluent), English (Intermediary) and Espanõl (Beginner)
 - 👀 Programador Jr., always in development.
 - ⌨ Programming languages:
-Python(studing) and JavaScript(estudando)
+Python(studing) and JavaScript(studing)
 
 #______Português BR______
 ** Olá, eu sou MatheusDeAlmeida 👋
