@@ -20,10 +20,15 @@ Português (fluente), Inglês (Intermediário) e Espanõl (iniciante)
 - ⌨ Linguagens de programação:
 Python(estudando) e JavaScript(estudando)
 
+<div align="center">
+  <a href="https://github.com/MatheusDeAlmeidaSilveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDeAlmeidaSilveira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="pic" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/929515475283628094/935168831310151680/gif_programador.gif">
 </div>
