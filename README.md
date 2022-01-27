@@ -7,7 +7,7 @@
 Portuguese (fluent), English (Intermediary) and Espanõl (Beginner)
 - 👀 Programador Jr., always in development.
 - ⌨ Programming languages:
-Python(studying) and JavaScript(studying)
+Python(studying), HTML(studying) and JavaScript(studying)
 
 #______Português BR______
 ** Olá, eu sou MatheusDeAlmeida 👋
@@ -18,7 +18,7 @@ Python(studying) and JavaScript(studying)
 Português (fluente), Inglês (Intermediário) e Espanõl (iniciante)
 - 👀 Programador Jr., sempre em desenvolvimento.
 - ⌨ Linguagens de programação:
-Python(estudando) e JavaScript(estudando)
+Python(estudando), HTML(studying) e JavaScript(estudando)
 
 <div align="center">
   <a href="https://github.com/MatheusDeAlmeidaSilveira">
