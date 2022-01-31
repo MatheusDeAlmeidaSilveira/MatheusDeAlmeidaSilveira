@@ -1,5 +1,6 @@
 #______English______
 ** Hi, i'm MatheusDeAlmeida 👋
+- 💻 Programmer Front End Jr.
 - 🌱 I’m currently learning Python,Javascript, HTML and CSS
 - 💞️ I am looking to provide services
 - 📫 How to reach me @m4goth
@@ -11,6 +12,7 @@ Python(studying) and JavaScript(studying)
 
 #______Português BR______
 ** Olá, eu sou MatheusDeAlmeida 👋
+- 💻 Programador Front End Jr.
 - 🌱 Estou atualmente aprendendo Python, Javascript, HTML e CSS
 - 💞️ Estou à procura de serviços
 - 📫 Como chegar até mim @m4goth
