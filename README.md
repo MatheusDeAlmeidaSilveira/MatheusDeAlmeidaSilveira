@@ -1,26 +1,8 @@
-#______English______
-** Hi, i'm MatheusDeAlmeida 👋
-- 💻 Programmer Front End Jr.
-- 🌱 I’m currently learning Python,Javascript, HTML and CSS
-- 💞️ I am looking to provide services
-- 📫 How to reach me @m4goth
-- ☕ Languages (level):
-Portuguese (fluent), English (Intermediary) and Espanõl (Beginner)
-- 👀 Programador Jr., always in development.
-- ⌨ Programming languages:
-Python(studying) and JavaScript(studying)
 
-#______Português BR______
-** Olá, eu sou MatheusDeAlmeida 👋
-- 💻 Programador Front End Jr.
-- 🌱 Estou atualmente aprendendo Python, Javascript, HTML e CSS
-- 💞️ Estou à procura de serviços
-- 📫 Como chegar até mim @m4goth
+** Olá, eu sou Matheus De Almeida 👋
+- 💻 Programador Front End Jr.(sempre em desenvolvimento)
 - ☕ Idiomas (nível):
 Português (fluente), Inglês (Intermediário) e Espanõl (iniciante)
-- 👀 Programador Jr., sempre em desenvolvimento.
-- ⌨ Linguagens de programação:
-Python(estudando) e JavaScript(estudando)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
