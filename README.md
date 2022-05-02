@@ -14,7 +14,7 @@ Comecei a aprender:
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 <br>
-Tenho interesse mas ainda não comecei:
+Tenho interesse, mas ainda não comecei:
 <div style="display: inline_block"><br>
    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="right" alt="pic" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/929515475283628094/935168831310151680/gif_programador.gif">
