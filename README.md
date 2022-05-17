@@ -20,7 +20,6 @@ Tenho interesse, mas ainda não comecei:
    <img align="right" alt="pic" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/929515475283628094/935168831310151680/gif_programador.gif">
 </div>
 
-
 #________________
  
  ## E-mail para contato: contatomatheusdealmeida@gmail.com
