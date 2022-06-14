@@ -24,10 +24,12 @@ Tenho interesse, mas ainda não comecei:
 #________________
  
  ## E-mail para contato: contatomatheusdealmeida@gmail.com
-  
+
  <div> 
   <a href="https://instagram.com/m4goth" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheusdealmeidasilveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ## <i>"<b>Uma pessoa</b> pode fazer <b>uma grande diferença</b>,..."</i> -Stan Lee
  
   ![Snake animation](https://github.com/MatheusDeAlmeidaSilveira/MatheusDeAlmeidaSilveira/blob/output/github-contribution-grid-snake.svg)
  
